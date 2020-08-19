@@ -1,0 +1,2 @@
+# Memento
+People need help remembering and keeping track of things they have done. Currently they have to do this by memory which can be unreliable. Memento is an app that will allow users to describe what they have done in good detail while they still remember for future reference. This is like a blog, however there is an emphasis on writing everyday to keep track of everything you’ve done, as well as extra features that make it easier, such as location pinning and searching.
